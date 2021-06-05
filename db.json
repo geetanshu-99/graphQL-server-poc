@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "125d08ac-0af0-4fa4-a282-c66aa56ae778",
+      "firstname": "John",
+      "lastname": "Doe",
+      "username": "john",
+      "password": "doe"
+    },
+    {
+      "id": "95691050-c723-422f-a3b2-8fbecb64f8ca",
+      "firstname": "Sushant",
+      "lastname": "Jadhav",
+      "username": "sushant",
+      "password": "jadhav"
+    },
+    {
+      "firstname": "ramesh1",
+      "lastname": "powar",
+      "username": "ramesh",
+      "password": "powar",
+      "id": "b61c61dc-3708-4665-96e6-23699dc345cb"
+    },
+    {
+      "firstname": "Geetanshu",
+      "lastname": "chhabra",
+      "username": "gchhabra",
+      "password": "chhabra",
+      "id": "23dfa965-1dad-4b93-a197-98c5ee41f7f5"
+    },
+    {
+      "firstname": "Geetanshu",
+      "lastname": "chhabra",
+      "username": "gchhabraa",
+      "password": "chhabra",
+      "id": "fb9ec7a7-45f8-4f8a-b1cc-eaf088353ca5"
+    }
+  ],
+  "employees": [
+    {
+      "firstname": "sandeep",
+      "lastname": "nilewar",
+      "salary": 25000,
+      "designation": "Engineer",
+      "id": "cbd141d2-bc06-44c8-8d83-4b7fb5a6006c"
+    },
+    {
+      "firstname": "Amol",
+      "lastname": "Nadagonde",
+      "salary": 25000,
+      "designation": "Engineer",
+      "id": "1069190d-4537-4f98-b4c4-bc1713b386c6"
+    },
+    {
+      "firstname": "Geetanshu",
+      "lastname": "Chhabra",
+      "salary": 25000,
+      "designation": "Engineer",
+      "id": "39fbb651-51c2-4556-b1ad-7c35ebce7593"
+    },
+    {
+      "firstname": "Chandradeepta",
+      "lastname": "laha",
+      "salary": 25000,
+      "designation": "Engineer",
+      "id": "68735fcb-e57d-4dd3-828e-b1fcea4245fb"
+    }
+  ]
+}
